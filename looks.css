@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+body {
+    background: peachpuff;
+    font-family: 'Arimo', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    background-color: palevioletred;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px rgba(121, 121, 121, 0.548);
+}
